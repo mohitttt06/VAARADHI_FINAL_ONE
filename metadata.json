@@ -1,0 +1,7 @@
+{
+  "name": "VAARADHI",
+  "description": "Government Scheme Assistance Portal - Bridge to Benefits",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
